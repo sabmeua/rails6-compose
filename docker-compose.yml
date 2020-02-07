@@ -19,3 +19,4 @@ services:
     depends_on:
       - db
     tty: true
+    working_dir: /apps/baukis2
