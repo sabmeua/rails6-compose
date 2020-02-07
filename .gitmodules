@@ -1,0 +1,3 @@
+[submodule "apps/baukis2"]
+	path = apps/baukis2
+	url = git@github.com:sabmeua/baukis2.git
